@@ -9,3 +9,5 @@ Homework
 -----------------
 
 * Finish Week 4 Lab
+* Homework example in class:
+  https://github.com/tiy-houston-q3-rails/week-4-homework-example
